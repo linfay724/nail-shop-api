@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / tool config
+.claude/
+.codebuddy/
+.agents/
+
+# OS
+.DS_Store
+Thumbs.db
